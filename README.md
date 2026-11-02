@@ -1,6 +1,8 @@
+[English](README.md) | [日本語](README.ja.md)
+
 # AtCoder
 
-AtCoder の練習用リポジトリです。C++ の開発環境と AtCoder Library を置いています。
+A practice repository for AtCoder. It includes a C++ development environment and the AtCoder Library.
 
 A practice workspace for [AtCoder](https://atcoder.jp/) contests in C++. It bundles a copy of the official [AtCoder Library (ACL)](https://github.com/atcoder/ac-library) so solutions can `#include <atcoder/all>` without extra setup.
 
